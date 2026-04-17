@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0uf6w5jdby1p"
 path.s3tc="res://.godot/imported/nathan-dumlao-J2gEgTPM_OA-unsplash-middle.jpg-4a05094ec88a3751b4f1f25b29924d75.s3tc.ctex"
+path.etc2="res://.godot/imported/nathan-dumlao-J2gEgTPM_OA-unsplash-middle.jpg-4a05094ec88a3751b4f1f25b29924d75.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://big_files/nathan-dumlao-J2gEgTPM_OA-unsplash-middle.jpg"
-dest_files=["res://.godot/imported/nathan-dumlao-J2gEgTPM_OA-unsplash-middle.jpg-4a05094ec88a3751b4f1f25b29924d75.s3tc.ctex"]
+dest_files=["res://.godot/imported/nathan-dumlao-J2gEgTPM_OA-unsplash-middle.jpg-4a05094ec88a3751b4f1f25b29924d75.s3tc.ctex", "res://.godot/imported/nathan-dumlao-J2gEgTPM_OA-unsplash-middle.jpg-4a05094ec88a3751b4f1f25b29924d75.etc2.ctex"]
 
 [params]
 

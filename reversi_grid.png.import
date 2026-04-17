@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4oerwbhupoqq"
 path.s3tc="res://.godot/imported/reversi_grid.png-8b9c0a5e0d5c9416dc24c39ebfe8f3e0.s3tc.ctex"
+path.etc2="res://.godot/imported/reversi_grid.png-8b9c0a5e0d5c9416dc24c39ebfe8f3e0.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://big_files/reversi_grid.png"
-dest_files=["res://.godot/imported/reversi_grid.png-8b9c0a5e0d5c9416dc24c39ebfe8f3e0.s3tc.ctex"]
+dest_files=["res://.godot/imported/reversi_grid.png-8b9c0a5e0d5c9416dc24c39ebfe8f3e0.s3tc.ctex", "res://.godot/imported/reversi_grid.png-8b9c0a5e0d5c9416dc24c39ebfe8f3e0.etc2.ctex"]
 
 [params]
 
