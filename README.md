@@ -13,3 +13,5 @@ Big files of [GodotFennelReversi](https://github.com/funatsufumiya/GodotFennelRe
 ## License
 
 Please see [LICENSE](./LICENSE), and also photos above would need attribution (especially freepik one).
+
+Contents not listed above (and not have similar name of above), are created by Fumiya Funatsu. They are released under MIT License.
