@@ -2,9 +2,9 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d2fma5t7mr2t1"
-path.s3tc="res://.godot/imported/grey-grainy-swirl-texture-background_78370-3633.png-db53dfc1e26404cfd27c8f5511baebd2.s3tc.ctex"
-path.etc2="res://.godot/imported/grey-grainy-swirl-texture-background_78370-3633.png-db53dfc1e26404cfd27c8f5511baebd2.etc2.ctex"
+uid="uid://b0yknosery45b"
+path.s3tc="res://.godot/imported/grey-grainy-swirl-texture-background_78370-3633-blurred.png-b8a1c4660f285e4783fa060d783b63b7.s3tc.ctex"
+path.etc2="res://.godot/imported/grey-grainy-swirl-texture-background_78370-3633-blurred.png-b8a1c4660f285e4783fa060d783b63b7.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://big_files/grey-grainy-swirl-texture-background_78370-3633.png"
-dest_files=["res://.godot/imported/grey-grainy-swirl-texture-background_78370-3633.png-db53dfc1e26404cfd27c8f5511baebd2.s3tc.ctex", "res://.godot/imported/grey-grainy-swirl-texture-background_78370-3633.png-db53dfc1e26404cfd27c8f5511baebd2.etc2.ctex"]
+source_file="res://big_files/grey-grainy-swirl-texture-background_78370-3633-blurred.png"
+dest_files=["res://.godot/imported/grey-grainy-swirl-texture-background_78370-3633-blurred.png-b8a1c4660f285e4783fa060d783b63b7.s3tc.ctex", "res://.godot/imported/grey-grainy-swirl-texture-background_78370-3633-blurred.png-b8a1c4660f285e4783fa060d783b63b7.etc2.ctex"]
 
 [params]
 
