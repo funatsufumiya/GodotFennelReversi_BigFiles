@@ -9,3 +9,7 @@ Big files of [GodotFennelReversi](https://github.com/funatsufumiya/GodotFennelRe
 ## List of freepik images
 
 - grey-grainy-swirl-texture-background_78370-3633.png (processed) ![](./grey-grainy-swirl-texture-background_78370-3633.png) https://www.freepik.com/free-vector/grey-grainy-swirl-texture-background_81409982.htm#fromView=keyword&page=1&position=3&uuid=0171c2a4-d8e3-40c2-8ffa-7d3eceb9ecbb&query=Black+noise+texture+blurry
+
+## License
+
+Please see [LICENSE](./LICENSE), and also photos above would need attribution (especially freepik one).
